@@ -1,2 +1,2 @@
 # DSLabPrepExercises
-Data Science Lab preparatory exercises based on McCaffrey's long running series
+Data Science Lab Preparatory Exercises for Mellon AI
